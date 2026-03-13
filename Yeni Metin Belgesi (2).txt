@@ -1,4 +1,4 @@
-    <header>
+<header>
         <nav>
     <div class="logo" style="display: flex; align-items: center;">
         <svg width="32" height="32" viewBox="0 0 24 24" fill="#00ffcc" xmlns="http://www.w3.org/2000/svg" style="margin-right: 10px;">
@@ -14,10 +14,10 @@
         NexusRobotics
     </div>
             <ul class="nav-links">
-                <li><a href="#" class="active">Home</a></li>
-                <li><a href="#">About Us</a></li>
-                <li><a href="#">Products</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="landing-page.html" class="active">Home</a></li>
+                <li><a href="about-us.html">About Us</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="contact.html">Contact</a></li>
             </ul>
         </nav>
     </header>
